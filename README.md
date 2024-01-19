@@ -5,7 +5,7 @@
 
 ## Kā izmantot
 
-1. Palaidiet programmu, izpildot `python calculator.py` komandrindā.
+1. Palaidiet programmu
 2. Ievadiet savu algu, kad jums tiks pieprasīts ievadīt datus.
 3. Programma automātiski aprēķinās un parādīs ienākuma nodokļa, sociālo iemaksu un tīrās algas summas.
 
